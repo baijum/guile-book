@@ -15,7 +15,7 @@ an implementation of the `Scheme <http://schemers.org>`_ programming
 language which is a dialect of `Lisp
 <https://en.wikipedia.org/wiki/Lisp_(programming_language)>`_.
 `Scheme
-<https://en.wikipedia.org/wiki/Scheme_(programming_language)>`_. is a
+<https://en.wikipedia.org/wiki/Scheme_(programming_language)>`_ is a
 functional programming language.
 
 .. toctree::
