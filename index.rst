@@ -27,10 +27,3 @@ head start for learning Guile programming environment.
    getting-stuff-done
    lambda-the-ultimate
    pilgrims-dream
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
