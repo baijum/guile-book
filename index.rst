@@ -11,12 +11,13 @@ Guile Programming Tutorial
 
 This documenation is a tutorial introduction to `GNU Guile
 <https://www.gnu.org/software/guile>`_ programming language.  Guile is
-an implementation of the `Scheme <http://schemers.org>`_ programming
-language which is a dialect of `Lisp
+an implementation of the `Scheme programming
+language <http://schemers.org>`_ which is a dialect of `Lisp
 <https://en.wikipedia.org/wiki/Lisp_(programming_language)>`_.
 `Scheme
 <https://en.wikipedia.org/wiki/Scheme_(programming_language)>`_ is a
-functional programming language.
+functional programming language.  I hope this guide will give you a
+head start for learning Guile programming environment.
 
 .. toctree::
    :numbered:
